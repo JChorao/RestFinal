@@ -12,6 +12,9 @@ const options = {
       {
         url: 'http://localhost:3000',
       },
+      {
+        url: 'https://restapi20200666.azurewebsites.net',
+      },
     ],
   },
   apis: ['./routes/*.js'], // Onde estão as anotações Swagger
