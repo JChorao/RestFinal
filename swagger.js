@@ -10,9 +10,6 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:3000',
-      },
-      {
         url: 'https://restapi20200666.azurewebsites.net',
       },
     ],
